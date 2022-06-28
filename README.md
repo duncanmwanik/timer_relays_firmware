@@ -1,7 +1,7 @@
 
 # TIMER RELAYS
 #### The repo contains all the firmware codes for the project and instructions on how to load them to the hardware
-<img src="">
+<!-- <img src=""> -->
 
 ## Requirements
 1) Set up the IDE, for this application you will need to download the Arduino ide [here](https://www.arduino.cc/en/software) if you don't have it already installed for your distributions
@@ -18,8 +18,6 @@ Once done proceed to the next instructions.
 
 # Uploading the codes  :arrow_up:
 You can buy the FTDI from here :link: [buy ftdi](https://www.amazon.com/HiLetgo-FT232RL-Converter-Adapter-Breakout/dp/B00IJXZQ7C/ref=sr_1_3?keywords=FTDI&qid=1650483928&sr=8-3)
-or here 
- :link: [buy other FTDI](https://www.amazon.com/CP2102-Module-Converter-Downloader-Compatible/dp/B092YMT52G_)
 
 1) Insert the FTDI programmer cable socket onto UART headers. ...
 2) <img src="https://github.com/skndungu/compressor_controller/blob/main/assets/img/USB-TTL-Connection.jpeg" height="200">
