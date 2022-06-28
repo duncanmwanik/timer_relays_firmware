@@ -14,7 +14,7 @@ Once done proceed to the next instructions.
      - timers.h
 </br>
 
-5)  Open the `lamp_node_firmware`  in `lamp_node_firmware.ino`folder :file_folder: with the downloaded ide, compile and upload to the hardware `(procedure on how to use the ide is on the tutorial link)`:link:    [tutorial](https://www.youtube.com/watch?v=nL34zDTPkcs&t=3s)
+5)  Open the `timer_relays_firmware`  in `timer_relays_firmware.ino`folder :file_folder: with the downloaded ide, compile and upload to the hardware `(procedure on how to use the ide is on the tutorial link)`:link:    [tutorial](https://www.youtube.com/watch?v=nL34zDTPkcs&t=3s)
 
 # Uploading the codes  :arrow_up:
 You can buy the FTDI from here :link: [buy ftdi](https://www.amazon.com/HiLetgo-FT232RL-Converter-Adapter-Breakout/dp/B00IJXZQ7C/ref=sr_1_3?keywords=FTDI&qid=1650483928&sr=8-3)
