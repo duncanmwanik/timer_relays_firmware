@@ -11,7 +11,7 @@ Once done proceed to the next instructions.
 ## Download the files 
 4)  Download all the files on the `Code`:arrow_down_small: on this platform, In your downloads you will get the a folder :file_folder:  `timer_relays_firmware`this will have:
      - timer_relays_firmware.ino
-     - timers.h
+     - timer_classes.h
 </br>
 
 5)  Open the `timer_relays_firmware`  in `timer_relays_firmware.ino`folder :file_folder: with the downloaded ide, compile and upload to the hardware `(procedure on how to use the ide is on the tutorial link)`:link:    [tutorial](https://www.youtube.com/watch?v=nL34zDTPkcs&t=3s)
